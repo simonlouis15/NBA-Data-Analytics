@@ -4,12 +4,12 @@ Historical Statistics on NBA Champions
 
 ## Built With
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python 3.8+
-- ![beautifulsoup4](https://img.shields.io/badge/beautifulsoup4-4B8BBE?style=for-the-badge) beautifulsoup4
-- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) pandas
-- ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) matplotlib
-- ![seaborn](https://img.shields.io/badge/seaborn-9A9A9A?style=for-the-badge) seaborn
-- ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) numpy
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![beautifulsoup4](https://img.shields.io/badge/beautifulsoup4-4B8BBE?style=for-the-badge) 
+- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+- ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+- ![seaborn](https://img.shields.io/badge/seaborn-9A9A9A?style=for-the-badge) 
+- ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 
 ## Getting Started
 
