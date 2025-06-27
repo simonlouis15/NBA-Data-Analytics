@@ -1,5 +1,17 @@
-# DataAnalytics-NBA
+# NBA Data Analytics
+
 Historical Statistics on NBA Champions
+
+## Built With
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python 3.8+
+- ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white) pip
+- ![beautifulsoup4](https://img.shields.io/badge/beautifulsoup4-4B8BBE?style=for-the-badge) beautifulsoup4
+- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) pandas
+- ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) matplotlib
+- ![seaborn](https://img.shields.io/badge/seaborn-9A9A9A?style=for-the-badge) seaborn
+- ![requests](https://img.shields.io/badge/requests-20232A?style=for-the-badge) requests
+- ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) numpy
 
 ## Getting Started
 
@@ -13,12 +25,14 @@ This guide will help you set up the development environment for the DataAnalytic
 ### Setting up the Virtual Environment
 
 1. **Clone the repository** (if you haven't already):
+
    ```bash
    git clone <repository-url>
    cd DataAnalytics-NBA
    ```
 
 2. **Create a virtual environment**:
+
    ```bash
    python -m venv venv
    ```
@@ -26,11 +40,13 @@ This guide will help you set up the development environment for the DataAnalytic
 3. **Activate the virtual environment**:
 
    **On macOS/Linux**:
+
    ```bash
    source venv/bin/activate
    ```
 
    **On Windows**:
+
    ```bash
    venv\Scripts\activate
    ```
@@ -44,11 +60,13 @@ This guide will help you set up the development environment for the DataAnalytic
 ### Installing Dependencies
 
 1. **Install required packages** (if you have a requirements.txt file):
+
    ```bash
    pip install -r requirements.txt
    ```
 
 2. **Or install packages individually** (if no requirements.txt exists):
+
    ```bash
    pip install <package-name>
    ```
@@ -61,6 +79,7 @@ This guide will help you set up the development environment for the DataAnalytic
 ### Running the Project
 
 1. **Make sure your virtual environment is activated**:
+
    ```bash
    source venv/bin/activate  # macOS/Linux
    # or
@@ -71,11 +90,11 @@ This guide will help you set up the development environment for the DataAnalytic
    ```bash
    python main.py
    ```
-   
 
 ### Deactivating the Virtual Environment
 
 When you're done working on the project:
+
 ```bash
 deactivate
 ```
