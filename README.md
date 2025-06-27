@@ -109,3 +109,7 @@ deactivate
 - Always activate the virtual environment before working on the project
 - The virtual environment keeps project dependencies isolated from your system Python
 - Remember to add `venv/` to your `.gitignore` file if it's not already there
+
+### Acknowledgments
+
+- https://www.basketball-reference.com/
